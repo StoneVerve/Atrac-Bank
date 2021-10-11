@@ -8,7 +8,8 @@ The bank contract also contains a reward pool of R ATRAC tokens deposited by the
 
 The bank smart contract has already been deployed to the rinkeby testnet using a personal account and infura access point wich are not provided for security reasons.
 
-The address of the bank smart contract is: 0x0A8f0BBe1249e1bCd9c707d25D5AC85E8e541869
+The address of the bank smart contract is: 0x0A8f0BBe1249e1bCd9c707d25D5AC85E8e541869 
+
 And the the address used to deploy the contract is: 0x643cB2DC45e4Af6F51165f6289353ec9B9072bf5
 
 ## Dependecies
