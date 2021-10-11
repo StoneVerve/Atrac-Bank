@@ -21,6 +21,11 @@ All the required dependencies were installed and managed using npm
 We use the `web.js` library and the `hdwallet-provider`. Some default installations of truffle do not include `hdwallet-provider` so I recommend that you install it
 using npm with the command `npm install @truffle/hdwallet-provider`
 
+We also use open zeppelin for the development of the our bank smart contracts. We also use the ERC20 implementation from Open Zeppelin to create an ERC20 token called Riba
+that we use to test the functionality of the bank smart contract.
+
+In order to install open zeppeling using npm `npm install @openzeppelin/contracts`
+
 
 ## Use
 Since we use the truffle framework we can use the following truffle commands:
